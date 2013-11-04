@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
-<repository name='&quot;Eclipse Marketplace Repo&quot;'
+<repository name='&quot;Java EE Profile&quot;'
   type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-   <property name='p2.timestamp' value='1376574786'/>
+   <property name='p2.timestamp' value='1376574788'/>
   </properties>
   <children size='14'>
+	<child location='http://mchr3k-eclipse.appspot.com/site.xml'/>
     <child location='http://moreunit.sourceforge.net/update-site/'/>
 	<child location='http://download.eclipse.org/technology/m2e/releases/1.1/1.1.0.20120530-0009'/>
 	<child location='http://update.eclemma.org/'/>
